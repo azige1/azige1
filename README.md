@@ -1,6 +1,6 @@
 # azige1
 
-复旦大学计算机技术硕士，关注大模型后训练、垂类问答、NLP 评测与 RLVR。
+FDUer
 
 ## Featured Projects
 
