@@ -19,10 +19,12 @@ LLM post-training, grounded generation, financial QA, RLVR, model evaluation.
 
 ## 🚲 鹈鹕的海岸假日
 
-把今天，骑得慢一点。
+向海而行，慢慢就好。
 
-[🚲 打开鹈鹕骑行 · 互动 HTML 动画](https://azige1.github.io/azige1/)
+[![鹈鹕的海岸假日 — 点击进入互动 HTML 动画](assets/pelican-coast.svg)](https://azige1.github.io/azige1/)
 
-沿着海岸线，跟着海风慢慢骑。支持暂停和调节骑行速度。
+[**打开鹈鹕骑行 →**](https://azige1.github.io/azige1/)
+
+一张会动的旅行明信片。晴日与落日两种海岸光线，支持暂停和调节骑行速度。
 
 [查看 HTML 源文件](https://github.com/azige1/azige1/blob/main/docs/index.html)
